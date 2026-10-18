@@ -1,4 +1,3 @@
-# sports_match_scheduling
 # SportsHub – Sports Tournament and Match Scheduling (Frontend)
 Plain HTML/CSS/JS. No build step, no CDN, works offline.
 
